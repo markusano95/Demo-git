@@ -11,6 +11,7 @@ def print_hi(name):
     print('b')
     print('c')
     print('d')
+    print('e')
 
 
 # Press the green button in the gutter to run the script.
